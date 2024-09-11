@@ -1,2 +1,2 @@
 # uni-reports
-My repots from university
+My reports from Abertay
